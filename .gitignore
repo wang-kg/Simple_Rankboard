@@ -1,0 +1,10 @@
+# IDE
+.idea/
+.vscode/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# macOS
+.DS_Store
